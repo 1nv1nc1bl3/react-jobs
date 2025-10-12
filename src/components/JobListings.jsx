@@ -81,6 +81,7 @@ export default function JobListings({ isHome = false }) {
                                 return (
                                     <JobListing
                                         key={id}
+                                        id={id}
                                         title={title}
                                         type={type}
                                         description={description}
