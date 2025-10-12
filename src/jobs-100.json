@@ -1,0 +1,1404 @@
+{
+    "jobs": [
+        {
+            "id": "1",
+            "title": "Web Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "2",
+            "title": "UI Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "3",
+            "title": "Web Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "PixelForge Studios",
+                "description": "PixelForge Studios is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@pixelforgestudios.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "4",
+            "title": "Software Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "5",
+            "title": "UI Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "6",
+            "title": "Full-Stack Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "7",
+            "title": "Web Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "8",
+            "title": "JavaScript Engineer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "9",
+            "title": "UI Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "PixelForge Studios",
+                "description": "PixelForge Studios is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@pixelforgestudios.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "10",
+            "title": "Junior React Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "11",
+            "title": "Senior React Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "TechNova Labs",
+                "description": "TechNova Labs is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@technovalabs.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "12",
+            "title": "Web Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "New York, NY",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "13",
+            "title": "Software Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "14",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Phoenix, AZ",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "15",
+            "title": "Senior React Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "TechNova Labs",
+                "description": "TechNova Labs is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@technovalabs.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "16",
+            "title": "Web Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "17",
+            "title": "React Native Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "18",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "19",
+            "title": "Software Engineer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "20",
+            "title": "Software Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "21",
+            "title": "JavaScript Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Chicago, IL",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "PixelForge Studios",
+                "description": "PixelForge Studios is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@pixelforgestudios.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "22",
+            "title": "Senior React Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "23",
+            "title": "Full-Stack Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "24",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "25",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "26",
+            "title": "UI Engineer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "27",
+            "title": "JavaScript Engineer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "28",
+            "title": "Senior React Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Chicago, IL",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "29",
+            "title": "Frontend Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "TechNova Labs",
+                "description": "TechNova Labs is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@technovalabs.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "30",
+            "title": "UI Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "31",
+            "title": "Senior React Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Phoenix, AZ",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "32",
+            "title": "React Native Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "33",
+            "title": "Junior React Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "New York, NY",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "34",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Portland, OR",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "35",
+            "title": "Software Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "36",
+            "title": "Software Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "37",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Phoenix, AZ",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "TechNova Labs",
+                "description": "TechNova Labs is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@technovalabs.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "38",
+            "title": "UI Engineer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "39",
+            "title": "Web Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "40",
+            "title": "Senior React Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "41",
+            "title": "UI Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "42",
+            "title": "Senior React Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "43",
+            "title": "Frontend Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "44",
+            "title": "Senior React Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "New York, NY",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "45",
+            "title": "Junior React Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "46",
+            "title": "Full-Stack Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "PixelForge Studios",
+                "description": "PixelForge Studios is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@pixelforgestudios.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "47",
+            "title": "Senior React Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Portland, OR",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "48",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "TechNova Labs",
+                "description": "TechNova Labs is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@technovalabs.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "49",
+            "title": "UI Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "50",
+            "title": "Frontend Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "New York, NY",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "51",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "52",
+            "title": "Full-Stack Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "53",
+            "title": "Web Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "54",
+            "title": "Junior React Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "55",
+            "title": "Frontend Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "56",
+            "title": "Full-Stack Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "57",
+            "title": "Junior React Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "58",
+            "title": "Full-Stack Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "59",
+            "title": "Full-Stack Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "60",
+            "title": "Software Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "61",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "62",
+            "title": "Full-Stack Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "63",
+            "title": "JavaScript Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "PixelForge Studios",
+                "description": "PixelForge Studios is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@pixelforgestudios.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "64",
+            "title": "Senior React Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "65",
+            "title": "Frontend Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "66",
+            "title": "Senior React Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "67",
+            "title": "Senior React Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "68",
+            "title": "Junior React Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "69",
+            "title": "Senior React Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "70",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "71",
+            "title": "Software Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "72",
+            "title": "Software Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Phoenix, AZ",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "PixelForge Studios",
+                "description": "PixelForge Studios is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@pixelforgestudios.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "73",
+            "title": "Senior React Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "TechNova Labs",
+                "description": "TechNova Labs is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@technovalabs.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "74",
+            "title": "Frontend Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "New York, NY",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "75",
+            "title": "Senior React Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "76",
+            "title": "UI Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Chicago, IL",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "Corewave Systems",
+                "description": "Corewave Systems is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@corewavesystems.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "77",
+            "title": "Web Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "78",
+            "title": "Frontend Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Chicago, IL",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "79",
+            "title": "Full-Stack Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Miami, FL",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "80",
+            "title": "Junior React Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "81",
+            "title": "UI Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "82",
+            "title": "UI Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "83",
+            "title": "Full-Stack Developer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Los Angeles, CA",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "PixelForge Studios",
+                "description": "PixelForge Studios is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@pixelforgestudios.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "84",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "85",
+            "title": "React Native Developer",
+            "type": "Contract",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Portland, OR",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "86",
+            "title": "UI Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "San Francisco, CA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "87",
+            "title": "UI Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Portland, OR",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "Hyperloop Media",
+                "description": "Hyperloop Media is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@hyperloopmedia.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "88",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "89",
+            "title": "UI Engineer",
+            "type": "Contract",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Phoenix, AZ",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "BrightPath Tech",
+                "description": "BrightPath Tech is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@brightpathtech.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "90",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Seattle, WA",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "91",
+            "title": "UI Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$80K - $90K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "92",
+            "title": "Frontend Engineer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Boston, MA",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "93",
+            "title": "JavaScript Engineer",
+            "type": "Remote",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Phoenix, AZ",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "CodeWorks Agency",
+                "description": "CodeWorks Agency is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@codeworksagency.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "94",
+            "title": "Senior React Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Full-Stack Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "DevCore Solutions",
+                "description": "DevCore Solutions is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@devcoresolutions.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "95",
+            "title": "Web Developer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$120K - $140K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "96",
+            "title": "Frontend Engineer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Phoenix, AZ",
+            "salary": "$60K - $70K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "97",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Remote",
+            "description": "We are looking for a skilled React Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Denver, CO",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "98",
+            "title": "JavaScript Engineer",
+            "type": "Full-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$100K - $120K",
+            "company": {
+                "name": "QuantumStack",
+                "description": "QuantumStack is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@quantumstack.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "99",
+            "title": "React Native Developer",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Austin, TX",
+            "salary": "$90K - $100K",
+            "company": {
+                "name": "Skyline Digital",
+                "description": "Skyline Digital is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@skylinedigital.com",
+                "contactPhone": "555-555-5555"
+            }
+        },
+        {
+            "id": "100",
+            "title": "Frontend Dev (Vue/React)",
+            "type": "Part-Time",
+            "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You'll work with modern tools and frameworks to build responsive, high-performance web applications.",
+            "location": "Remote, US",
+            "salary": "$70K - $80K",
+            "company": {
+                "name": "NextGen Software",
+                "description": "NextGen Software is a leading technology company focused on innovation and delivering top-tier software solutions.",
+                "contactEmail": "contact@nextgensoftware.com",
+                "contactPhone": "555-555-5555"
+            }
+        }
+    ]
+}
