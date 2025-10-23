@@ -26,7 +26,7 @@ function App() {
 
     // Delete job
     const deleteJob = async (id) => {
-        console.log('delete', id);
+        // console.log('delete', id);
     };
 
     const router = createBrowserRouter(
