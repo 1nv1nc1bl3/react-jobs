@@ -10,25 +10,9 @@ export default function JobListings({ isHome = false }) {
     const [loading, setLoading] = useState(true);
     const [visibleCount, setVisibleCount] = useState(12);
 
-    {
-        /* fetching data from jobs.json --
-        In the 'package.json' file we have added this line
-        "server": "json-server --watch src/jobs.json --port 8000"
-        in "scripts" */
-    }
     useEffect(() => {
         const fetchJobs = async () => {
             try {
-                {
-                    /* in the 'vite.config.js' file we have added this settings for proxy:
-                proxy: { '/api': {
-                        target: 'http://localhost:8000',
-                        changeOrigin: true,
-                        rewrite: (path) => path.replace(/^\/api/, ''),
-                        },
-                },
-                */
-                }
                 const res = await fetch('/api/jobs');
                 const data = await res.json();
                 setJobs(data);

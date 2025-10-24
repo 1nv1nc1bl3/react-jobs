@@ -26,7 +26,7 @@ function App() {
 
     // Delete job
     const deleteJob = async (id) => {
-        // console.log('delete', id);
+        console.log('delete', id);
     };
 
     const router = createBrowserRouter(
@@ -36,13 +36,13 @@ function App() {
                     <Route index element={<HomePage />} />
                     <Route path='/jobs' element={<JobsPage />} />
                     <Route
-                        path='/add-job'
-                        element={<AddJobPage addJobSubmit={addJob} />}
-                    />
-                    <Route
                         path='/jobs/:id'
                         element={<JobPage />}
                         deleteJob={deleteJob}
+                    />
+                    <Route
+                        path='/add-job'
+                        element={<AddJobPage addJobSubmit={addJob} />}
                     />
                     <Route path='*' element={<NotFoundPage />} />
                 </Route>
